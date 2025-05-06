@@ -1,6 +1,6 @@
 title: Ahmad
 logo: assets/images/349331335_764483748721854_8438501044344031866_n.jpg
 show_downloads: True
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jeky11-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
