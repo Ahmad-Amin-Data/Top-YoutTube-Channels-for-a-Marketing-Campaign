@@ -1,4 +1,4 @@
-# Data Project: Excel to Power BI 
+# Data Project: Excel to SQL to Power BI 
 
 
 
@@ -71,7 +71,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 - total subscribers
 - total views
 - total videos uploaded
-
+- the client provide it and you can find it here
 
 
 
