@@ -1,7 +1,7 @@
 # Data Project: Excel to SQL to Power BI 
 
 
-![Visualization of the process](assets/images/Free Universe Stars Video Gif Animated Zoom Virtual Background.gif)
+![Visualization of the process](assets/Free Universe Stars Video Gif Animated Zoom Virtual Background.gif)
 
 
 
@@ -72,7 +72,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 - total subscribers
 - total views
 - total videos uploaded
-- the client provide it and you can find it here
+- the client provide it and you can find it inside the repo asset folder
 
 
 
