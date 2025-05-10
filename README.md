@@ -1,7 +1,8 @@
 # Data Project: Excel to SQL to Power BI 
 
 
-![Visualization-of-the-process](Free Universe Stars Video Gif Animated Zoom Virtual Background.gif)
+![Visualization of the process](assets/Free Universe Stars Video Gif Animated Zoom Virtual Background.gif)
+
 
 
 
