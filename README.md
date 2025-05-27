@@ -1,7 +1,7 @@
 # Data Project: Excel to SQL to Power BI 
 
 
-![Visualization of the process](assets/images/Free_Universe_Stars_Video_Gif_Animated_Zoom_Virtual_Background.gif)
+![Visualization of the process](assets/images/Free%20Universe%20Stars%20Video%20Gif%20Animated%20Zoom%20Virtual%20Background.gif)
 
 
 
